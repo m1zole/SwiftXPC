@@ -9,7 +9,7 @@
 #ifndef SwiftXPCCBindings_h
 #define SwiftXPCCBindings_h
 
-#include <xpc/xpc.h>
+#include "../xpc/xpc.h"
 #include <mach/mach.h>
 
 #include "XPCOverlayShims.h"

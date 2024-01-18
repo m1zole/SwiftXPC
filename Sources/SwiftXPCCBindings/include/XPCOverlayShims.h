@@ -17,7 +17,7 @@
 #ifndef SWIFT_STDLIB_SHIMS_XPC_OVERLAY_H
 #define SWIFT_STDLIB_SHIMS_XPC_OVERLAY_H
 
-#import <xpc/xpc.h>
+#include "../xpc/xpc.h"
 
 #define _SWIFT_XPC_DEPRECATED
 
